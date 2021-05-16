@@ -1,0 +1,171 @@
+#anime{
+    font-size:100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #0e0603;
+    border-radius: 20px;
+    margin-top:100px;
+    
+}
+
+#anime img{
+    border-radius: 100%;
+    padding-right: 0%;
+    border-color: rgb(255, 0, 0);
+    
+
+}
+
+
+#by{
+    text-align: end;
+    margin-right: 10px;
+}
+
+#intro{
+    font-size:40px;
+    font-family:fantasy;
+    text-align: center;
+}
+
+#image{
+    margin-right: 650px;
+    margin-left: 650px;
+}
+
+#naruto{
+    font-size: 30px;
+    border-style: solid;
+    border-width:0px;
+    border-color: #FF9671;
+}
+
+
+body{
+    background-color: rgb(110, 109, 109);
+    margin: 0;
+}
+
+
+.manga{
+    background-color: darkslategray;
+    margin-left: 1150px;
+    margin-right: 20px;
+    font-size: 30px;
+    border-radius: 10%;
+    border-color: darkred;
+    margin-top:20px;
+}
+
+.about{
+    background-color: darkslategray;
+    margin-right: 20px;
+    font-size: 30px;
+    border-radius: 10%;
+    border-color: darkred;
+    margin-top:20px;
+}
+
+.contacts{
+    background-color: darkslategray;
+    /* margin-left: 1570px; */
+    font-size: 30px;
+    border-radius: 10%;
+    border-color: darkred;
+    margin-top:20px;
+}
+
+
+.same:hover{
+    background-color: lightgray;
+    padding: 8px;
+}
+
+
+
+#nav_bar{
+    background-color: rgb(1, 102, 102);
+    margin:0;
+    height: 80px;
+    position: fixed;
+    top:0px;
+    width:100%;
+    overflow: hidden;
+}
+
+
+
+#bol{
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+
+
+#demon{
+    font-size: 30px;
+    border-style: solid;
+    border-width:0px;
+    border-color: #FF9671;
+}
+
+.column {
+  background-color: darkgray;
+  border-radius: 10px;
+  width: 612px;
+  margin-left: 10px;
+
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.column {
+    float:left;
+    margin:5px;
+  }
+  
+  .lfet, .right {
+    width: 25%;
+  }
+  
+  .middle {
+    width: 50%;
+  }
+
+
+
+
+  #myhero{
+    font-size: 30px;
+    border-style: solid;
+    border-width:0px;
+    border-color: #FF9671;
+  }
+
+
+
+  .row{
+      background-color: black;
+      padding-top: 0.5%;
+      padding-bottom: 0.5%;
+      border-color: black;
+  }
+
+
+  .line{
+      margin:0 0 0 0;
+      padding: 1px;
+      border-bottom:solid black;
+      font-size: 10px;
+      display:block;
+  }
+
+  .column:hover{
+      background-color:darkgreen
+  }
+
+ 
